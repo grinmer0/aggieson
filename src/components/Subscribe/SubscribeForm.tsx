@@ -275,7 +275,7 @@ export const SubscribeForm = () => {
           <div>
             <h2>Subscribe</h2>
             <p>
-              Emails, a few times a year, about design and web dev. Written like
+              Emails, a few times a year, about tech and stuff. Written like
               notes to friends.
             </p>
           </div>
